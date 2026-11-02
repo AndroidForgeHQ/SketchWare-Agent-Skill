@@ -6,7 +6,7 @@ SketchWare Agent Skill is an open-source project designed to help AI coding agen
 
 The goal is to make Android app development with SketchWare more accessible by allowing developers to describe what they want in natural language and use AI agents to assist with project creation, UI design, logic blocks, components, events, libraries, and resources.
 
-✨ Project Goals
+## ✨ Project Goals
 
 - Generate SketchWare-compatible Android projects.
 - Design application interfaces and layouts.
@@ -17,7 +17,7 @@ The goal is to make Android app development with SketchWare more accessible by a
 - Simplify repetitive SketchWare development tasks.
 - Enable AI-assisted visual Android application development.
 
-🧩 Project Architecture
+## 🧩 Project Architecture
 
 The project is organized into independent modules, each responsible for a specific part of the SketchWare development workflow.
 
@@ -30,7 +30,7 @@ Module| Responsibility
 "sketchware-library-manager"| External library management
 "sketchware-resources-manager"| Images, icons, and project resources
 
-🚀 Planned Workflow
+## 🚀 Planned Workflow
 
 The intended development workflow is:
 
@@ -43,7 +43,7 @@ The intended development workflow is:
 7. Libraries and resources are organized.
 8. The generated project is validated and prepared for use with SketchWare.
 
-🛠️ Development Status
+## 🛠️ Development Status
 
 Status: Early Development
 
@@ -51,7 +51,7 @@ This project is actively being structured as a modular open-source initiative.
 
 Features and modules are subject to development and validation. Not every planned capability is currently implemented.
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 SketchWare-Agent-Skill/
 │
@@ -66,15 +66,15 @@ SketchWare-Agent-Skill/
 ├── LICENSE
 └── README.md
 
-🎯 Vision
+## 🎯 Vision
 
 The long-term vision is to build an AI-assisted development ecosystem for SketchWare where developers can create Android applications through natural language instructions instead of manually performing every development task.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions from developers are welcome.
 
-You can help by:
+### You can help by:
 
 - Improving existing modules.
 - Developing new project-generation capabilities.
@@ -90,7 +90,7 @@ To contribute:
 3. Make your changes.
 4. Submit a Pull Request.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
