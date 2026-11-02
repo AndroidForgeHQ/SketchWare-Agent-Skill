@@ -53,6 +53,7 @@ Features and modules are subject to development and validation. Not every planne
 
 ## 📁 Repository Structure
 
+```text
 SketchWare-Agent-Skill/
 │
 ├── sketchware-blocks-engine/
@@ -65,6 +66,7 @@ SketchWare-Agent-Skill/
 │
 ├── LICENSE
 └── README.md
+```
 
 ## 🎯 Vision
 
@@ -83,7 +85,7 @@ Contributions from developers are welcome.
 - Reporting bugs and suggesting new features.
 - Improving documentation and examples.
 
-To contribute:
+### To contribute:
 
 1. Fork this repository.
 2. Create a new feature branch.
