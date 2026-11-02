@@ -1,6 +1,6 @@
-SketchWare Agent Skill
+# SketchWare Agent Skill
 
-Build Android applications with SketchWare using AI Agents.
+## Build Android applications with SketchWare using AI Agents.
 
 SketchWare Agent Skill is an open-source project designed to help AI coding agents understand, design, generate, and manage SketchWare projects through a modular development workflow.
 
